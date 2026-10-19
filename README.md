@@ -6,9 +6,9 @@
 ---
 
 ## 1. ข้อมูลการนำระบบขึ้นใช้งานจริง (Production Deployment)
-* **Frontend Production URL (Vercel):** `https://<your-project>.vercel.app`
-* **Backend Base URL (Render):** `https://<your-backend>.onrender.com`
-* **Endpoint ตัวอย่างที่เปิดทดสอบได้:** `https://<your-backend>.onrender.com/api/events`
+* **Frontend Production URL (Vercel):** `https://674259002-7153403-final.vercel.app/`
+* **Backend Base URL (Render):** `https://events-api-674259002.onrender.com`
+* **Endpoint ตัวอย่างที่เปิดทดสอบได้:** `https://events-api-674259002.onrender.com/`
 
 > [!NOTE]  
 > เซิร์ฟเวอร์ Backend บน Render เป็น Free Tier หากไม่ได้ใช้งานเป็นเวลาระบบอาจเข้าสู่ Sleep Mode เมื่อเปิดใช้งานครั้งแรกจะใช้เวลาเริ่มต้นทำงาน (Cold Start) ประมาณ 30-50 วินาที
